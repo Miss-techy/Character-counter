@@ -1,0 +1,40 @@
+
+/* CHARACTER COUNTER */
+
+
+body{
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(0deg, #fffee9 0%, #b5effc 100%);
+	background-repeat: no-repeat;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+
+}
+
+h2{
+  font-size: 3rem;
+  color: darkslategray;
+  font-weight: bold;
+}
+textarea{
+  height: 25rem;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  background-color: darkslategrey;
+  color: aliceblue;
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+.char-counter{
+  background-color: darkslategrey;
+  padding: 1rem;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
